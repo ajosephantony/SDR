@@ -1,2 +1,4 @@
 document
 adding new line for new release. from commit 09dff95
+newline
+new line more
